@@ -53,7 +53,7 @@ pip install playsound
 Pretty simple here clone the repo:
 
 ```bash
-git clone https://github.com/cornerpirate/rdpupload.git
+git clone https://github.com/SecarmaLabs/rdpupload/rdpupload.git
 ```
 
 As you already have the pre-requisites you are now all set to get this done.
